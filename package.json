@@ -1,0 +1,19 @@
+{
+  "name": "inet-whois",
+  "version": "1.0.0",
+  "description": "whois parser for many TLDs, cc TLDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whois",
+    "whois parser",
+    "whois vn"
+  ],
+  "author": "Do Nguyen <thesunbg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "domain-regex": "0.0.1"
+  }
+}
